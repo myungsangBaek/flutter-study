@@ -1,3 +1,9 @@
+# lefthook
+
+```bash
+lefthook run pre-commit
+```
+
 # first_app
 
 A new Flutter project.
